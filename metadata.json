@@ -1,0 +1,6 @@
+{
+  "name": "نظام ضبط جودة تعبئة السكر | Sugar Packaging QC",
+  "description": "تطبيق تشغيلي متكامل لمراقبي الجودة في صالة تعبئة السكر: متابعة الإنتاج بالساعة، فحص الماكينات، النظافة، الموازين، وسماحيات الأوزان بنظام Offline-First وواجهة عربية صناعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
